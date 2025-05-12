@@ -1,0 +1,4 @@
+seed,message,expected_output
+demo-seed,Test message for KAS-XMSS,<to be filled after deterministic output is verified>
+another-seed,Hello world!,<pending verification>
+1234567890,Quick brown fox,<pending verification>
