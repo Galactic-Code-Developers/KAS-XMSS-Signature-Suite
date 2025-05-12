@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "KAS-XMSS: Sovereign Post-Quantum Signature Suite"
+message: "Please cite this work when using KAS-XMSS for research or publication."
+authors:
+  - family-names: Valamontes
+    given-names: Antonios
+    orcid: https://orcid.org/0009-0008-5616-7746
+affiliation: Kapodistrian Academy of Science
+date-released: 2025-05-12
+license: Other
+version: "1.0"
+repository-code: https://github.com/Galactic-Code-Developers/KAS-XMSS-Signatures

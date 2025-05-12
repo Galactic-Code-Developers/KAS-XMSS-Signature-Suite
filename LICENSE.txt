@@ -1,0 +1,7 @@
+Copyright (c) 2025 Kapodistrian Academy of Science
+
+This software is provided for academic, non-commercial use only.
+Redistribution and use in source and binary forms, with or without modification,
+are permitted for research and evaluation purposes, provided that this notice is retained.
+
+No warranty is expressed or implied. All use is at your own risk.
