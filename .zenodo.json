@@ -1,0 +1,30 @@
+{
+  "title": "KAS-XMSS: Sovereign Post-Quantum Signature Suite",
+  "upload_type": "software",
+  "description": "KAS-XMSS is a deterministic, hash-based post-quantum digital signature framework developed by the Kapodistrian Academy of Science. Built upon the XMSS standard (RFC 8391), KAS-XMSS provides sovereign, reproducible signature generation and verification for post-quantum use cases. It supports applications in national research infrastructure, secure long-term archives, and hybrid integration with QD-RSA.\n\nIncludes: Python and C reference implementations, test vectors, whitepaper, and automated entropy tools.\n\n\ud83d\udee1\ufe0f Signature Layer Independence: No reliance on NIST or external authorities. Fully auditable entropy generation and deterministic reproducibility ensure cryptographic sovereignty.",
+  "creators": [
+    {
+      "name": "Valamontes, Antonios",
+      "affiliation": "Kapodistrian Academy of Science",
+      "orcid": "https://orcid.org/0009-0008-5616-7746"
+    }
+  ],
+  "version": "v1.0-alpha",
+  "license": "other-open",
+  "keywords": [
+    "post-quantum",
+    "XMSS",
+    "hash-based signatures",
+    "cryptographic sovereignty",
+    "digital signatures",
+    "KAS",
+    "deterministic entropy"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Galactic-Code-Developers/KAS-XMSS-Signature-Suite",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
